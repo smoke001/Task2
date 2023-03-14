@@ -1,0 +1,8 @@
+name: Task2
+version: '${project.version}'
+main: me.smokesh.task2.Main
+description: Метеоритный дождь из динамита.
+
+commands:
+  bs:
+  bs2:
